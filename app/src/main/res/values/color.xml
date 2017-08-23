@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_text">#ffffffff</color>
+    <color name="actionbar_background">#ff801f44</color>
+    <color name="tab_text">#ffffffff</color>
+    <color name="tab_background">#ff801f44</color>
+    <color name="tab_lining">#ffd23e6a</color>
+    <color name="people_app_theme_color">#ffd23e6a</color>
+</resources>

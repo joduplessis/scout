@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joduplessis/Sites/Scout/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/joduplessis/Sites/Scout/app/build/intermediates/pre-dexed/release/internal_impl-20.0.0-a33632bbf629cdf097f192a6833660ad64dc13fd.jar" />
+    </item>
+    <item
+        jar="/Users/joduplessis/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/joduplessis/Sites/Scout/app/build/intermediates/pre-dexed/release/support-annotations-20.0.0-870846f0940495807338248192cb75ef12e19281.jar" />
+    </item>
+    <item
+        jar="/Users/joduplessis/Sites/Scout/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/joduplessis/Sites/Scout/app/build/intermediates/pre-dexed/release/classes-16117fb4163ae678cf73347393df6cd38935f4fb.jar" />
+    </item>
+
+</items>
